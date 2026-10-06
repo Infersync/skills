@@ -1,31 +1,4 @@
 {
-  "updatedAt": "2026-10-06T03:58:58.179Z",
-  "skills": {
-    "every-helper-gets-a-jsdoc": {
-      "teams": 1,
-      "runs": 6,
-      "steps": 5,
-      "checked": 6,
-      "passed": 5,
-      "sendBacks": 1,
-      "stops": 0,
-      "minutesPerAcceptedStep": 3,
-      "ranked": true,
-      "without": {
-        "runs": 27,
-        "checked": 7,
-        "passed": 7,
-        "minutesPerAcceptedStep": 4.5
-      },
-      "kinds": [
-        "feature",
-        "tests",
-        "docs"
-      ],
-      "languages": [
-        "JavaScript",
-        "Markdown"
-      ]
-    }
-  }
+  "updatedAt": "2026-10-06T03:59:22.429Z",
+  "skills": {}
 }
